@@ -35,4 +35,4 @@ L’objectif était d’analyser les flux de production, d’identifier les goul
 Maissa Mediouni  
 Élève ingénieur en génie industriel  
 maissa.mediouni@enib.ucar.tn  
-[LinkedIn](https://www.linkedin.com/in/maissa-mediouni-4385a8304)
+[LinkedIn] https://www.linkedin.com/in/maissa-mediouni-4385a8304
