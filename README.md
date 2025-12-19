@@ -30,7 +30,11 @@ L’objectif était d’analyser les flux de production, d’identifier les goul
 - Mise en place de recommandations pour une amélioration continue
 
 ## Structure du projet
-
+├── data/ # Données Excel, rapports Power BI
+├── analysis/ # Analyses Lean, diagrammes Ishikawa, VSM
+├── results/ # Tableaux de bord et recommandations
+├── report/ # Rapport du projet
+└── README.md
 ## Auteur
 Maissa Mediouni  
 Élève ingénieur en génie industriel  
